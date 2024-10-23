@@ -38,5 +38,5 @@ To run this project locally, clone the repository and install the necessary depe
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Text-to-3D-Face-Reconstruction.git
+git clone https://github.com/Image-Inception/Text-to-3D-Face-Reconstruction.git
 cd Text-to-3D-Face-Reconstruction
